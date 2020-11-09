@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+body{
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    min-height:100%;
+}
+#mainContainer{
+    margin-top:2em;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+#tipMain{
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight:900;
+    color: #404040;
+}
+#tipCodeWindow{
+    padding:2em;
+    border-radius: .5em;
+    background: #481a4d;
+    width:60%;
+    margin:auto;
+    text-align: center;
+    color: white;
+    text-align: left;
+}
+pre{
+    font-size:1.5em;
+    font-family: 'Courier Prime', monospace;    
+}
+#tipReason{
+    margin-top: 1em;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #7d7d7d;
+    font-weight:300;
+}
+footer{
+    padding:.5em;
+    text-align: center;
+    align-self: end;
+    height:auto;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    width:100%;
+    background-color:#404040;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+a{
+    color: #404040;
+    text-decoration: none;
+    background-color:white;
+}
