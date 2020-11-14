@@ -5,3 +5,5 @@ This is a repository of all individual Avion School homeworks. Homeworks are org
 A simple webpage (HTML & CSS) that states a best practice related to web development.
 ## 002 - 10 NOV
 HTML letter exercise.
+## 003 - 11 NOV
+A simple webpage (HTML & CSS) dedicated to a person you look up to.
