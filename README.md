@@ -7,3 +7,5 @@ A simple webpage (HTML & CSS) that states a best practice related to web develop
 HTML letter exercise.
 ## 003 - 11 NOV
 A simple webpage (HTML & CSS) dedicated to a person you look up to.
+## 004 - 16 NOV
+A responsive chessboard using flexbox.

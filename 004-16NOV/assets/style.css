@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}   
+#chessContainer{
+    margin:auto;
+    margin-top:2vmin;
+    width:96vmin;
+    display: flex;
+    flex-wrap: wrap;
+}
+.chessSquare{
+    border-radius:6px;
+    height:12vmin;
+    width:12vmin;
+    background-color:#B58863;   
+    border: 2px solid white;
+}
+.alternate{
+    background-color:#EFD9B5;
+}
+img{
+    width: 100%;
+}
