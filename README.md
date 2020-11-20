@@ -9,3 +9,5 @@ HTML letter exercise.
 A simple webpage (HTML & CSS) dedicated to a person you look up to.
 ## 004 - 16 NOV
 A responsive chessboard using flexbox.
+## 005 - 17 NOV
+A (semi-functional) chessboard using CSS grid and JS.
